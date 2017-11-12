@@ -1,0 +1,23 @@
+{
+  "name": "noga",
+  "version": "1.0.0",
+  "description": "An analytics tracker for the web that is simple, scalable, and respects user privacy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonStone/noga.git"
+  },
+  "author": "jackson stone",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jacksonStone/noga/issues"
+  },
+  "homepage": "https://github.com/jacksonStone/noga#readme",
+  "dependencies": {
+    "aws-sdk": "^2.149.0",
+    "bluebird": "^3.5.1"
+  }
+}
